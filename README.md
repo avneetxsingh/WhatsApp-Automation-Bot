@@ -1,7 +1,5 @@
 # WhatsApp-Automation-Bot
 Project Overview:
-Developed a Python script using the PyAutoGUI library to streamline and automate repetitive messaging tasks on WhatsApp Web.
-Implemented user-friendly customization features, including target contact, message content, and message count.
 Development Process:
 Utilized PyAutoGUI for efficient automation, ensuring seamless interaction with the WhatsApp Web interface.
 Applied best practices in Python scripting, including the handling of delays (time.sleep()) to account for page loading times.
